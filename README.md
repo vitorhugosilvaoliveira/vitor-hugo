@@ -16,17 +16,26 @@ Em constante aprendizado, um commit de cada vez.
 
 <p align="center">
 
-<a href="https://github.com/_chairass?tab=followers">
+<a href="https://github.com/vitorhugosilvaoliveira">
 <img
 alt="Seguidores"
 src="https://custom-icon-badges.demolab.com/github/followers/SEU-USUARIO?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
 />
 </a>
 
-<a href="https://instagram.com/chairass">
+<a href="https://www.instagram.com/vitor_hugo_s.o?igsh=ZGE1dGV2c2FhN253">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
 
+## 📊 Estatísticas
+
+<p align="center">
+  <img width="56%"
+       src="https://github-stats-extended.vercel.app/api?username=chairass&show_icons=true&theme=monokai&include_all_commits=true&hide_border=true&custom_title=Estatísticas"/>
+   
+  <img width="37%"
+       src="https://github-stats-extended.vercel.app/api/top-langs/?username=chairass&theme=monokai&layout=compact&custom_title=Tecnologias&langs_count=8&hide_border=true"/>
+</p>
 <a href="(https://www.linkedin.com/in/chaira-santos-36659129a/)">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
