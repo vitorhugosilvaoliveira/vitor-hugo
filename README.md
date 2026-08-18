@@ -1,1 +1,34 @@
-# vitor-hugo
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=21&pause=1000&color=4BF520=true&width=500&lines=Bem-vindo+a+minha+Stack!;Sou+Vitor+Hugo.;Dev+Junior+%F0%9F%92%BB)](https://git.io/typing-svg)
+
+### 💻 Back-End | Banco de Dados | Node.js
+
+<p>
+Em constante aprendizado, um commit de cada vez.
+  Pretendo me tornar um dev back end focado em Java.
+</p>
+
+</div>
+
+
+## 🌐 Conecte-se comigo
+
+<p align="center">
+
+<a href="https://github.com/_chairass?tab=followers">
+<img
+alt="Seguidores"
+src="https://custom-icon-badges.demolab.com/github/followers/SEU-USUARIO?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+/>
+</a>
+
+<a href="https://instagram.com/chairass">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+
+<a href="(https://www.linkedin.com/in/chaira-santos-36659129a/)">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+</p>
