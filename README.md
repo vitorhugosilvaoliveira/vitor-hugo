@@ -47,7 +47,7 @@ src="https://custom-icon-badges.demolab.com/github/followers/SEU-USUARIO?color=2
 <p align="center">
   <a href="https://git.io/streak-stats">
     <img
-      src="https://streak-stats.demolab.com/?user=chairass&theme=monokai&locale=pt_BR&card_width=900&card_height=170"
+      src="https://streak-stats.demolab.com/?user=chairass&theme=maroongold&locale=pt_BR&card_width=900&card_height=170"
       alt="GitHub Streak"
     />
   </a>
