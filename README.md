@@ -53,3 +53,11 @@ src="https://custom-icon-badges.demolab.com/github/followers/SEU-USUARIO?color=2
   </a>
 </p>
 
+## 🐍 Contribuições
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/vitorhugosilvaoliveira/vitorhugosilvaoliveira/gh-pages/github-contribution-grid-snake-dark.svg"
+    alt="Animação das contribuições"
+  />
+</p>
