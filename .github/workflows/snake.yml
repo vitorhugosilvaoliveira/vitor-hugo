@@ -16,7 +16,7 @@ jobs:
       - name: Gerar cobrinha
         uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: chairass
+          github_user_name: vitorhugosilvaoliveira
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?color_snake=%23F92672&color_dots=%23161B22,%23312E81,%235B4BDB,%238A5CF6,%23F92672
