@@ -1,63 +1,45 @@
-<div align="center">
+# 👾 Vitor Hugo
+**`Estudante de tecnologia da informação`**
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=21&pause=1000&color=4BF520=true&width=500&lines=Bem-vindo+a+minha+Stack!;Sou+Vitor+Hugo.;Dev+Junior+%F0%9F%92%BB)](https://git.io/typing-svg)
-
-### 💻 Back-End | Banco de Dados | Node.js
-
-<p>
-Em constante aprendizado, um commit de cada vez.
-  Pretendo me tornar um dev back end focado em Java.
+Me chamo Vitor Hugo, tenho 22 anos e  sou natural do Rio de Janeiro. Terminei o Ensino Médio no Colégio Estadual Olavo Alves Pinto (BA) e atualmente estou cursando sistemas de informação. Sou um entusiasta da área de tecnologia no que diz respeito a criação de softwares, hardwares, sistemas e tenho um interesse específico na área de cibersegurança.
+<p align="left">
+    <a href="https://www.instagram.com/vitor_hugo_s.o?igsh=ZGE1dGV2c2FhN253">
+        <img 
+            alt="Perfil do instagram" 
+            title="Instagram" 
+            src="https://custom-icon-badges.demolab.com/badge/-@vitor_hugo_so-red?style=for-the-badge&logo=instagram&logoColor=white"
+        />
+    </a>
+    <a href="https://www.linkedin.com/in/vitor-hugo-b36012384?utm_source=share_via&utm_content=profile&utm_medium=member_android">
+        <img 
+            alt="Perfil do Linkedin" 
+            title="LinkedIn" 
+            src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-white?style=for-the-badge&logo=linke&logoColor=black"
+        />
+    </a> 
+    <a href="https://github.com/vitorhugosilvaoliveira?tab=repositories&sort=stargazers">
+        <img 
+            alt="Total de estrelas" 
+            title="Total de estrelas GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/stars/vitorhugosilvaoliveira?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+        />
+    </a>
+    <a href="https://github.com/vitorhugosilvaoliveira?tab=followers">
+        <img 
+            alt="Seguidores" 
+            title="Me siga no GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/followers/vitorhugosilvaoliveira?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        />
+    </a>
 </p>
 
-</div>
+---
+### Linguagens e tecnologias
+<br/>
+<br/>
+
+### Estatísticas
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vitorhugosilvaoliveira&theme=dark&show_icons=true&locale=pt-br)
 
 
-## 🌐 Conecte-se comigo
-
-<p align="center">
-
-<a href="https://github.com/vitorhugosilvaoliveira">
-<img
-alt="Seguidores"
-src="https://custom-icon-badges.demolab.com/github/followers/SEU-USUARIO?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-/>
-</a>
-
-<a href="https://www.instagram.com/vitor_hugo_s.o?igsh=ZGE1dGV2c2FhN253">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-</a>
-
-## 📊 Estatísticas
-
-<p align="center">
-  <img width="56%"
-       src="https://github-stats-extended.vercel.app/api?username=vitorhugosilvaoliveira&show_icons=true&theme=maroongold&include_all_commits=true&hide_border=true&custom_title=Estatísticas"/>
-   
-  <img width="37%"
-       src="https://github-stats-extended.vercel.app/api/top-langs/?username=vitorhugosilvaoliveira&theme=maroongold&layout=compact&custom_title=Tecnologias&langs_count=8&hide_border=true"/>
-</p>
-<a href="(https://www.linkedin.com/in/chaira-santos-36659129a/)">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-</p>
-
-## 📈 Atividade
-
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img
-      src="https://streak-stats.demolab.com/?user=chairass&theme=maroongold&locale=pt_BR&card_width=900&card_height=170"
-      alt="GitHub Streak"
-    />
-  </a>
-</p>
-
-## 🐍 Contribuições
-
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/vitorhugosilvaoliveira/vitorhugosilvaoliveira/gh-pages/github-contribution-grid-snake-dark.svg"
-    alt="Animação das contribuições"
-  />
-</p>
