@@ -1,7 +1,7 @@
 # 👾 Vitor Hugo
 **`Estudante de tecnologia da informação`**
 
-Me chamo Vitor Hugo, tenho 22 anos e  sou natural do Rio de Janeiro. Terminei o Ensino Médio no Colégio Estadual Olavo Alves Pinto (BA) e atualmente estou cursando sistemas de informação. Sou um entusiasta da área de tecnologia no que diz respeito a criação de softwares, hardwares, sistemas e tenho um interesse específico na área de cibersegurança.
+Me chamo Vitor Hugo, tenho 22 anos e  sou natural do Rio de Janeiro. Terminei o Ensino Médio no Colégio Estadual Olavo Alves Pinto (BA) e atualmente estou cursando sistemas de informação. Sou um entusiasta da área de tecnologia no que diz respeito a criação de softwares, hardwares, sistemas operacionais, redes e tenho um interesse específico na área de cibersegurança.
 <p align="left">
     <a href="https://www.instagram.com/vitor_hugo_s.o?igsh=ZGE1dGV2c2FhN253">
         <img 
